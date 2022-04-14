@@ -1,6 +1,6 @@
 ![Picture of a tropical forest in Perak](/assets/static/images/forest.jpg "A picture I took in 2021")
 
-# Welcome! Selamat Datang! こんにちは！
+# Hello! Salam Sejahtera! こんにちは！ 你好！
 My name is Megat Al Zhahir Daniel Bin Megat Nor Mazlan. I am from Malaysia and is currently 20 years old.
 
 ## About Me
