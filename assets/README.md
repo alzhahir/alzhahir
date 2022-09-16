@@ -6,7 +6,7 @@ The assets in this repository should be under the Creative Commons Zero v1.0 Uni
 If you are unsure if an asset is licensed under the Creative Commons Zero v1.0 Universal license, please open up\
 an issue and I'll add the file to the list below.
 
-### Exception
+### Exceptions
 _Currently none_
 
 ## Contribution
