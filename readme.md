@@ -35,8 +35,11 @@ I currently can speak proficiently in these languages:
 - English - Fluently good at making minor mistakes
 
 I am currently learning these languages:
-- Japanese (日本語) - Limited to Katakana/Hiragana and some Kanji
+- Japanese (日本語) - Limited to Katakana/Hiragana and some Kanji. 日本語はちょっとだけ話せかけている。
 - Mandarin (中文) - Limited to Pinyin and some Hanzi
 
 ## Contact
 More information on how to contact me available on [my website](https://alz.moe/contact "Contact Megat - alzhahir.com").
+
+## Licensing
+This repository (alzhahir/alzhahir) is licensed under the GNU General Public License Version 3.0, however, all assets contained in the Assets folder is licensed under the Creative Commons Attribution Share Alike 4.0.
