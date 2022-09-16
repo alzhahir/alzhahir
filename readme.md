@@ -42,4 +42,4 @@ I am currently learning these languages:
 More information on how to contact me available on [my website](https://alz.moe/contact "Contact Megat - alzhahir.com").
 
 ## Licensing
-This repository (alzhahir/alzhahir) is licensed under the GNU General Public License Version 3.0, however, all assets contained in the Assets folder is licensed under the Creative Commons Attribution Share Alike 4.0.
+This repository (github.com/alzhahir/alzhahir) is licensed under the GNU General Public License Version 3.0, however, all assets contained in the Assets folder is licensed under the Creative Commons Attribution Share Alike 4.0.
