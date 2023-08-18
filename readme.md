@@ -31,8 +31,8 @@ And I am interested in learning more on these programming languages:
 ### Human Languages
 I currently can speak proficiently in these languages:
 
-- Malay (Bahasa Melayu) - Native
-- English - Fluently good at making minor mistakes
+- Malay (Bahasa Melayu) - Native speaker
+- English - Professional level
 
 I am currently learning these languages:
 - Japanese (日本語) - Limited to Katakana/Hiragana and some Kanji. 日本語はちょっとだけ話せかけている。
