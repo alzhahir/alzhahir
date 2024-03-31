@@ -9,6 +9,7 @@ You can learn more about me from [my website](https://alz.moe/about "About Me - 
 ### Programming Languages
 Currently, I am able to use these programming languages:
 
+- PHP
 - JavaScript
 - NodeJS
 - C++
