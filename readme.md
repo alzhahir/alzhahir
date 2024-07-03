@@ -14,7 +14,7 @@ Hopefully, one day, I can pull myself together to learn a mobile application dev
 ### Development Projects
 I like building systems and scripting. You can take a look at my repositories for projects that I've done, but some of them is not public. In summary, here's some projects I've done before:
 
-- (mcsimplequery)[https://github.com/alzhahir/mcsimplequery], which checks the status of an Minecraft Server using Python Library created by Dinnerbone, one of the past developers at Mojang.
+- [mcsimplequery](https://github.com/alzhahir/mcsimplequery "GitHub Repo"), which checks the status of an Minecraft Server using Python Library created by Dinnerbone, one of the past developers at Mojang.
 - SiramPokok, can be translated as "WaterPlants" is essentially a serverless site I created during the pandemic to display who among my siblings were supposed to water the plants for that day. There's no storage, the site uses Google Calendar API to extract a task to display it on the site. The backend for the system was written in Node and deployed to Google Cloud Functions. Frontend was coded in pure HTML+CSS+JS and deployed to Firebase Hosting.
 - Pterodactyl Status, which is essentially like the successor to the MCStatus, checks Minecraft server online status using Pterodactyl API. This was coded in PHP, and it is still being used now for one of my "projects", the AkaKitsune Project.
 
