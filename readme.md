@@ -14,12 +14,12 @@ Hopefully, one day, I can pull myself together to learn a mobile application dev
 ### Development Projects
 I like building systems and scripting. You can take a look at my repositories for projects that I've done, but some of them is not public. In summary, here's some projects I've done before:
 
-- [mcsimplequery](https://github.com/alzhahir/mcsimplequery "GitHub Repo"), which checks the status of an Minecraft Server using Python Library created by Dinnerbone, one of the past developers at Mojang.
+- [mcsimplequery](https://github.com/alzhahir/mcsimplequery "mcsimplequery - github.com"), which checks the status of an Minecraft Server using Python Library created by Dinnerbone, one of the past developers at Mojang.
 - SiramPokok, can be translated as "WaterPlants" is essentially a serverless site I created during the pandemic to display who among my siblings were supposed to water the plants for that day. There's no storage, the site uses Google Calendar API to extract a task to display it on the site. The backend for the system was written in Node and deployed to Google Cloud Functions. Frontend was coded in pure HTML+CSS+JS and deployed to Firebase Hosting.
-- Pterodactyl Status, which is essentially like the successor to the MCStatus, checks Minecraft server online status using Pterodactyl API. This was coded in PHP, and it is still being used now for one of my "projects", the AkaKitsune Project.
+- [Pterodactyl Status](https://github.com/alzhahir/pterodactyl-status "Pterodactyl Status - github.com"), which is essentially like the successor to the aforementioned mcsimplequery, checks Minecraft server online status using Pterodactyl API. This was coded in PHP, and it is still being used now for one of my "projects", the AkaKitsune Project.
 
 ### Human Languages
-I live in Malaysia. My native language is Malay, with English being my second language. I'm quite confident in writing and listening, but I still stumble when speaking English.
+I am a Malay, living in Malaysia. My native language is Malay, with English being my second language. I'm quite confident in writing and listening, but I still stumble when speaking English.
 
 I also try to learn more languages. I took Mandarin in university, but I can't really say I'm good at it at all. However, I also learn Japanese and am still learning it today. However, my Japanese is still basic, and I assume my JLPT level is N5, which is elementary school level.
 
